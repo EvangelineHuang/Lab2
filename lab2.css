@@ -4,6 +4,7 @@ title{
 body{
   font-family: Arial;
   text-align: center;
+  font-size: 200%;
 }
 h1{
   font-family: "Comic Sans MS";
@@ -12,5 +13,5 @@ h1{
 
 }
 .front{
-  background-image: url("back.jpg");
+  background-color: #7FFFD4;
 }
