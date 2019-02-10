@@ -16,7 +16,7 @@ h1{
   font-size: 200%;
   text-align: center;
 }
-.front{
+body{
   background-color: #5F9EA0;
 }
 table,tr,th{
@@ -24,6 +24,7 @@ table,tr,th{
 }
 table{
   font-size: 150%;
+  text-align: center;
 }
 ol{
   text-align: center;;
