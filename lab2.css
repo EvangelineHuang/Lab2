@@ -1,22 +1,24 @@
-title{
-  font-family: Monotype Corsiva;
-  background-image: url("back.png");
-}
 body,p,table{
   font-family: Arial;
   text-align: center;
   font-size: 200%;
   background-image:
 }
+title{
+  font-family: Monotype Corsiva;
+  background-image: url("back.png");
+}
+li{
+  width:300px;
+}
 h1{
   font-family: "Comic Sans MS";
   font-size: 200%;
   text-align: center;
-
 }
 .front{
   background-color: #5F9EA0;
 }
-table{
+table,tr,th{
   border: 2px solid black;
 }
