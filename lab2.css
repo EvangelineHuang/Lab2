@@ -9,7 +9,7 @@ title{
 }
 li{
   width:500px;
-  text-align: left;
+  text-align: center;
 }
 h1{
   font-family: "Comic Sans MS";
@@ -27,10 +27,7 @@ table{
   font-size: 150%;
   text-align: center;
   border-collapse: collapse;
-}
-ol{
-  text-align: center;;
-}
+}s
 .pic{
   margin:10px;
   text-align: left;
