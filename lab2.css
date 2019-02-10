@@ -1,4 +1,4 @@
-body,p,table{
+body,p{
   font-family: Arial;
   text-align: center;
   font-size: 200%;
@@ -21,4 +21,7 @@ h1{
 }
 table,tr,th{
   border: 2px solid black;
+}
+table{
+  font-size: 150%;
 }
