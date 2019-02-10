@@ -19,8 +19,9 @@ h1{
 body{
   background-color: #5F9EA0;
 }
-table,tr,th{
-  border: 2px solid black;
+table,tr,th,td{
+  border: 10px solid black;
+  border-collapse: collapse;
 }
 table{
   font-size: 150%;
