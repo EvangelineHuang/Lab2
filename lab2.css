@@ -6,15 +6,16 @@ body,p{
 }
 title{
   font-family: Monotype Corsiva;
-  background-image: url("back.png");
+  ;
 }
 li{
-  width:300px;
+  width:500px;
 }
 h1{
   font-family: "Comic Sans MS";
   font-size: 200%;
   text-align: center;
+  background-image: url("back.png")
 }
 body{
   background-color: #5F9EA0;
