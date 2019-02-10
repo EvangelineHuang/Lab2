@@ -21,12 +21,12 @@ body{
 }
 tr,th,td{
   border: 10px solid black;
-  border-collapse: collapse;
   padding:10px;
 }
 table{
   font-size: 150%;
   text-align: center;
+  border-collapse: collapse;
 }
 ol{
   text-align: center;;
