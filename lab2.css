@@ -3,9 +3,13 @@ title{
 }
 body{
   font-family: Arial;
+  text-align: center;
 }
 h1{
-  font-family: Comic Sans MS;
+  font-family: "Comic Sans MS";
+  font-size: 200%;
+  text-align: center;
+
 }
 .front{
   background-image: url("back.jpg");
