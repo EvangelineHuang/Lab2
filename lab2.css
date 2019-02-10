@@ -30,6 +30,7 @@ table{
 .pic{
   margin:10px;
   text-align: left;
+  display:inline-block;
 }
 .fact{
   width: 2000px;
