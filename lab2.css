@@ -24,7 +24,6 @@ tr,th,td{
 }
 table{
   font-size: 150%;
-  text-align: center;
   border-collapse: collapse;
 }s
 .pic{
@@ -34,4 +33,8 @@ table{
 }
 .fact{
   width: 2000px;
+}
+ul {
+  text-align: center;
+  list-style: inside;
 }
