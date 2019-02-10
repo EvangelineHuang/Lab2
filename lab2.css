@@ -2,12 +2,11 @@ body,p{
   font-family: Arial;
   text-align: center;
   font-size: 200%;
-  background-image:
 }
 title{
   font-family: "Monotype Corsiva";
 }
-li{
+ol{
   width:500px;
   text-align: center;
 }
@@ -31,4 +30,7 @@ table{
 .pic{
   margin:10px;
   text-align: left;
+}
+.fact{
+  width: 2000px;
 }
