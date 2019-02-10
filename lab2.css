@@ -1,0 +1,12 @@
+title{
+  font-family: Monotype Corsiva;
+}
+body{
+  font-family: Arial;
+}
+h1{
+  font-family: Comic Sans MS;
+}
+.front{
+  background-image: url("back.jpg");
+}
