@@ -32,7 +32,7 @@ table{
   text-align: left;
   display:inline-block;
 }
-ul {
+ul ol{
   list-style: inside;
   font-size: 130%;
 }
