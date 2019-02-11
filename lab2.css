@@ -9,7 +9,8 @@ title{
 ol{
   width:500px;
   text-align: center;
-  font-size: 130%;
+  font-size: 120%;
+  display:inline;
 }
 h1{
   font-family: "Comic Sans MS";
