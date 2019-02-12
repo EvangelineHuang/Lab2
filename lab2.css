@@ -15,9 +15,10 @@ h1{
   font-family: "Comic Sans MS";
   font-size: 200%;
   text-align: center;
+  background-image: url("back.jpg");
 }
 body{
-  background-color: #87CEFA;
+  background-color: Silver;
 }
 tr,th,td{
   border: 10px solid black;
